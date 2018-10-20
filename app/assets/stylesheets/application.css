@@ -13,3 +13,40 @@
  *= require_tree .
  *= require_self
  */
+
+ /*div{
+     font-size: 15px;
+     color:red;
+ }
+div:hover{
+    color: black;
+}*/
+ .custom-div {
+     padding: 3px;
+     background-color: lightblue;
+     border: 1px solid grey;
+     
+ }
+ .custom2-div {
+    padding: 3px;
+    background-color: lightgoldenrodyellow;
+    border: 1px solid grey;
+   
+}
+.customp-row{
+    margin-top: 50px;
+}
+.custom-row{
+    margin-top: 10px
+}
+
+#main-container{
+    background-color: blue;
+}
+
+
+.custom-container{
+    padding: 0 10% 0 10%;
+    display: flex;
+   
+}
