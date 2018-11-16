@@ -1,5 +1,6 @@
 Rails.application.routes.draw do
   
+  resources :pins
   get 'pages/team_mates'
   get 'pages/index'
   get 'pages/home'
