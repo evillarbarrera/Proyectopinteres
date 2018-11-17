@@ -7,7 +7,7 @@ ruby '2.4.1'
 gem 'rails', '~> 5.2.1'
 
 group :production do
-gem 'pg'
+  gem 'pg'
 end
 
 # Use Puma as the app server
